@@ -1,0 +1,70 @@
+.banner{
+  height: 92.5vh;
+}
+
+.logo{
+  display: block;
+  position: relative;
+  margin: auto;
+  margin-top: 50px;
+  left: 0;
+}
+
+.callout{
+  font-size: 2.25em;
+  color: #C7C7C7;
+}
+
+.name{
+  color: #F3EB00;
+  font-weight: bold;
+  font-size: 4em;
+}
+
+button.donate{
+  left: 0;
+  position: relative;
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.info1{
+  margin-top: 15px;
+  height: 92.5vh;
+  background-image: url("assets/chicago-river.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.infoCont{
+  margin-top: 10%;
+  margin-left: 2%;
+  margin-right: 2%;
+  background: rgba(0,0,0,.5);
+  padding: 20px;
+}
+
+.mainStat{
+  font-size: 2em;
+  color: #F3EB00;
+}
+
+.infoText{
+  margin-top: 5%;
+  font-size: 1em;
+  color: white;
+}
+
+.mission{
+  margin: auto;
+  margin-top: 15%;
+  position: relative;
+  display: block;
+  left: 0;
+  right: 0;
+  font-size: 1.5em;
+  color: white;
+  font-style: italic;
+}
